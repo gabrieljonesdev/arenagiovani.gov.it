@@ -8,11 +8,11 @@ permalink: /
 order: 1
 ---
 
-{% include hero.html %}
+<!-- {% include hero.html %} -->
 
 <main class="container my-4" markdown="1">
 
-{% include posts.html %}
+{% include main.html %}
 
 </main>
 
